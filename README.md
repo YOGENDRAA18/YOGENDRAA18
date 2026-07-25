@@ -66,11 +66,11 @@ A cybersecurity project that helps users identify malicious or suspicious URLs b
 ---
 
 ## 📊 GitHub Stats
-## 📈 GitHub Activity
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOGENDRAA18&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOGENDRAA18&layout=compact)
+
 
 ---
 
